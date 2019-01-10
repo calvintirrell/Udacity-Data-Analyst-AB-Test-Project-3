@@ -1,4 +1,4 @@
-# Udacity-Data-Analyst-AB-Test-Project-3
+# Udacity Data Analyst AB Test Project 3
 This is my repository for the project and files for the third project in the Udacity Data Analyst Nanodegree program.
 
 # Description
